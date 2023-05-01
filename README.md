@@ -8,16 +8,16 @@
 
   Dessa forma, este trabalho permite aplicar alguns dos diferentes algoritmos de Deep Reinforcement Learning a um sistema de empacotamente de latas, no qual o principal objetivo é avaliar a viabilidade e o desempenho de utilizá-los na aprendizagem e otimização automática das sequências de controlo em processos industriais de natureza sequencial e discreta. Dada a natureza sequencial dos processos, com necessidade inerente de efeito de memória, podem ser  experimentadas diferentes arquiteturas de redes neuronais, comparando o uso de redes MLP's (Multilayers Perceptron) com o uso de LSTM (Long Short-Term Memory) e com o uso de buffers de memória de estados anteriores de diferentes tamanhos. 
 
-#[Rápida instruções de instalações](tutoriais/quick_setup.md)
+# [Rápida instruções de instalações](tutoriais/quick_setup.md)
 Passos de instalações de pacotes Python. 
 
-#[Tutorial da garra latas](tutoriais/handling_tutorial.md)
+# [Tutorial da garra latas](tutoriais/handling_tutorial.md)
 Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.  
 
-#[Tutorial da esteira da caixa de latas](tutoriais/boxconveyor_tutorial.md)
+# [Tutorial da esteira da caixa de latas](tutoriais/boxconveyor_tutorial.md)
 Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.
 
-#[Documentação](tutoriais/documentation_tutorial.md)
+# [Documentação](tutoriais/documentation_tutorial.md)
 Descreve a arquitetura e um conjunto de links das bibliotecas e frameworks utilizados.
 
 
