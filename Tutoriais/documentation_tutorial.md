@@ -1,4 +1,4 @@
-Tabela de Bibliotecas de Aprendizado por Reforço:
+# Bibliotecas de Aprendizagem por Reforço:
 
 | Biblioteca | Descrição | Link |
 | --- | --- | --- |
@@ -11,21 +11,21 @@ Tabela de Bibliotecas de Aprendizado por Reforço:
 | Callbacks | Callbacks para serem usados com o Stable Baselines3 | https://stable-baselines3.readthedocs.io/en/master/guide/callbacks.html |
 | TensorBoard | Biblioteca para visualização de dados do TensorFlow | https://www.tensorflow.org/tensorboard |
 
-Tabela de Bibliotecas de WebSockets:
+# Bibliotecas de WebSocket:
 
 | Biblioteca | Descrição | Link |
 | --- | --- | --- |
 | WebSocket | Implementação de servidor e cliente WebSocket em Python | https://websockets.readthedocs.io/en/stable/ |
 | Json | Biblioteca para codificar e decodificar dados JSON em Python | https://docs.python.org/3/library/json.html |
 
-Tabela de Bibliotecas do Unity:
+# Pacotes e intalação do Unity:
 
 | Biblioteca | Descrição | Link |
 | --- | --- | --- |
 | Unity | Plataforma de desenvolvimento de jogos | https://unity.com/ |
 | Assets | Recursos para serem usados no Unity | https://assetstore.unity.com/ |
 
-Tabela de Bibliotecas de Utilitários:
+# Bibliotecas de Utilitários:
 
 | Biblioteca | Descrição | Link |
 | --- | --- | --- |
