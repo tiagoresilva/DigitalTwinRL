@@ -1,3 +1,9 @@
+
+
+
+![Texto alternativo](Images/training_test_scheme.png)
+
+
 # Bibliotecas de Aprendizagem por Reforço:
 
 | Biblioteca | Descrição | Link |
