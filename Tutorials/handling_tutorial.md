@@ -103,7 +103,7 @@ A execução da célula 6 "Inicia treino" realiza o treinamento do agente. Impor
 
 A execução da célula 7 "Salva o modelo (caso necessário)" salva o modelo no diretório definido em save_path.
 
-# Para teste do agente treinado
+# Para teste do agente treinado:
 
 ### 1- Carregue um modelo do diretório (se desejar):
 
