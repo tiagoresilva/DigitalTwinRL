@@ -1,23 +1,62 @@
-# DigitalTwinRL
- Este é um projeto desenvolvido no âmbito da tese de mestrado para comparação de métodos de aprendizagem por reforço em processos industriais discretos sequenciais.
-  
-# Introdução
- O processo de comissionamento de equipamentos durante a implementação de um novo sistema, ou na reconfiguração de um já existente, é uma etapa em que as empresas gastam dinheiro e tempo antes da entrada em operação. 
- 
- Baseando-se nesse problema, este trabalho utiliza gémeos digitais, que simule um processo de empacotamento de latas, em conjunto com a utilização de técnicas de Aprendizagem por Reforço para permitir que o sistema se reconfigure e se programe de forma automática. 
+# Para instalar as bibliotecas necessárias via pip:
 
-  Dessa forma, este trabalho permite aplicar alguns dos diferentes algoritmos de Deep Reinforcement Learning a um sistema de empacotamente de latas, no qual o principal objetivo é avaliar a viabilidade e o desempenho de utilizá-los na aprendizagem e otimização automática das sequências de controlo em processos industriais de natureza sequencial e discreta. Dada a natureza sequencial dos processos, com necessidade inerente de efeito de memória, podem ser  experimentadas diferentes arquiteturas de redes neuronais, comparando o uso de redes MLP's (Multilayers Perceptron) com o uso de LSTM (Long Short-Term Memory) e com o uso de buffers de memória de estados anteriores de diferentes tamanhos. 
+### 1- Abra o terminal ou prompt de comando do seu sistema operacional.
 
-# [Rápida instruções de instalações](Tutoriais/quick_setup.md)
-Passos de instalações de pacotes Python. 
+### 2- Certifique-se de ter o pip instalado. Você pode verificar se o pip já está instalado digitando o seguinte comando no terminal:
 
-# [Tutorial da garra latas](Tutoriais/handling_tutorial.md)
-Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.  
+pip --version
 
-# [Tutorial da esteira da caixa de latas](Tutoriais/boxconveyor_tutorial.md)
-Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.
+Se o pip estiver instalado, você verá a versão do pip instalada. Se não estiver instalado, você pode instalar seguindo as instruções em https://pip.pypa.io/en/stable/installing/.
 
-# [Documentação](Tutoriais/documentation_tutorial.md)
-Descreve a arquitetura e um conjunto de links das bibliotecas e frameworks utilizados.
+### 3- Agora, use o seguinte comando para instalar as bibliotecas necessárias:
+
+pip install numpy<br>
+pip install torch<br>
+pip install websockets<br>
+pip install gym<br>
+pip install stable-baselines3<br>
+pip install tqdm<br>
+pip install psutil<br>
 
 
+
+# Para instalar as bibliotecas necessárias via conda:
+
+### 1- Certifique-se de ter o conda instalado. Você pode verificar se o prompt anaconda foi instalado, seguindo os seguintes atalhos para sistemas operacionais diferentes:
+
+- Windows: Clique em "Iniciar", pesquise por "Prompt do Anaconda" e clique para abrir.
+- macOS: Use Cmd+Space para abrir a busca do Spotlight e digite "Navigator" para abrir o programa.
+- Linux-CentOS: Abra "Aplicativos", vá para "Ferramentas do Sistema" e selecione "Terminal".
+- Linux-Ubuntu: Abra o Dash clicando no ícone do Ubuntu e digite "terminal".
+
+### 2- Se você não tiver o Anaconda instalado, siga estas etapas para instalá-lo:
+
+Acesse o site oficial do Anaconda: https://www.anaconda.com/products/individual.
+Selecione o download para o seu sistema operacional (Windows, macOS ou Linux).
+Baixe a versão mais recente do Anaconda.
+Siga as instruções de instalação para concluir a instalação do Anaconda em seu sistema.
+Uma vez instalado o Anaconda, você pode criar um novo ambiente virtual e instalar as bibliotecas necessárias usando o comando conda install. Para criar um novo ambiente, use o comando conda create seguido pelo nome do ambiente e a versão do Python que você deseja usar. Por exemplo:
+
+conda create --name meu-ambiente python=3.8
+
+Para ativar o ambiente virtual, use o comando conda activate seguido pelo nome do ambiente:
+
+conda activate meu-ambiente
+
+### 3- Em seguida, você pode usar o comando conda install para instalar as bibliotecas necessárias:
+
+conda install numpy<br>
+conda install pytorch<br>
+conda install -c conda-forge websockets<br>
+conda install gym<br>
+conda install -c conda-forge stable-baselines3<br>
+conda install tqdm<br>
+conda install psutil<br>
+
+Observe que, ao instalar o PyTorch via Anaconda, você precisará escolher a versão apropriada para sua plataforma. Consulte a documentação do PyTorch para obter mais informações.
+
+# Para instalar o CUDA e os pacotes NVIDIA:
+
+Siga as instruções disponíveis no site da NVIDIA (https://www.nvidia.com/). Verifique as especificações do seu sistema e escolha a versão correta do CUDA e dos pacotes NVIDIA.
+
+Depois de instalar o CUDA e os pacotes NVIDIA, você pode instalar o PyTorch com suporte para GPU da seguinte forma:
