@@ -2,10 +2,10 @@
 
 | Biblioteca | Descrição | Link |
 | --- | --- | --- |
-| Gym | Biblioteca de ambiente de aprendizado por reforço | https://gym.openai.com/ |
-| Stable Baselines3 | Implementações de algoritmos de aprendizado por reforço | https://stable-baselines3.readthedocs.io/en/master/ |
-| PyTorch | Biblioteca de aprendizado de máquina baseada em Torch | https://pytorch.org/ |
-| TensorFlow | Biblioteca de aprendizado de máquina desenvolvida pela Google | https://www.tensorflow.org/ |
+| Gym | Biblioteca de aprendizagem por reforço | https://gym.openai.com/ |
+| Stable Baselines3 | Implementações de algoritmos de aprendizagem por reforço | https://stable-baselines3.readthedocs.io/en/master/ |
+| PyTorch | Biblioteca de aprendizagem de máquina baseada em Torch | https://pytorch.org/ |
+| TensorFlow | Biblioteca de aprendizagem de máquina desenvolvida pela Google | https://www.tensorflow.org/ |
 | SB3_contrib | Biblioteca de contribuições para o Stable Baselines3 | https://github.com/DLR-RM/stable-baselines3-contrib |
 | Torchvision | Biblioteca de visão computacional baseada em PyTorch | https://pytorch.org/vision/stable/index.html |
 | Callbacks | Callbacks para serem usados com o Stable Baselines3 | https://stable-baselines3.readthedocs.io/en/master/guide/callbacks.html |
@@ -18,7 +18,7 @@
 | WebSocket | Implementação de servidor e cliente WebSocket em Python | https://websockets.readthedocs.io/en/stable/ |
 | Json | Biblioteca para codificar e decodificar dados JSON em Python | https://docs.python.org/3/library/json.html |
 
-# Pacotes e intalação do Unity:
+# Pacotes e instalação do Unity:
 
 | Biblioteca | Descrição | Link |
 | --- | --- | --- |
