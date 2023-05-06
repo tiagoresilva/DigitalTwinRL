@@ -1,7 +1,12 @@
 
 
+# Aprendizagem por Reforço Aplicada ao Processo de Empacotamento de Latas 
 
-![Texto alternativo](Images/training_test_scheme.png)
+Todos os algoritmos são preferencialmente pré treinados em ambientes programados em Python para posterior simulação na realidade virtual no Unity, ocorrendo a troca de informações entre o agente e esse ambiente por meio de comunicação Websocket. 
+
+<p align="center"><img src="Images/training_test_scheme.png"></p>
+
+Tal preferência pelo pré treinamento nessas bibliotecas se deu pela superioridade de velocidade de processamento computacional e pela maior disponibilidade e flexibidade de algoritmos quando comparados a um treino feito no Unity, pela biblioteca ML-Agents Toolkit. A utilização da  Websocket é necessária por haver programação de códigos em scripts distintos na realidade virtual e nas bibliotecas de RL. A troca de informações entre o agente e o ambiente via Websocket ocorre dessa forma por meio de protocolo TCP/IP, em uma conexão cliente e servidor, gerida por um terceiro algoritmo. Por sua vez, essa utilização resulta na desacoplagem entre os código de simulação e treino, permitindo mudanças e adequações sem que haja interferência de um no outro durante o desenvolvimento.
 
 
 # Bibliotecas de Aprendizagem por Reforço:
