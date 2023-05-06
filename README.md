@@ -9,6 +9,9 @@
  Baseando-se nesse problema, este trabalho utiliza gémeos digitais, que simule um processo de empacotamento de latas, em conjunto com a utilização de técnicas de Aprendizagem por Reforço para permitir que o sistema se reconfigure e se programe de forma automática. 
 
   Dessa forma, este trabalho permite aplicar alguns dos diferentes algoritmos de Deep Reinforcement Learning a um sistema de empacotamente de latas, no qual o principal objetivo é avaliar a viabilidade e o desempenho de utilizá-los na aprendizagem e otimização automática das sequências de controlo em processos industriais de natureza sequencial e discreta. Dada essa natureza, com necessidade inerente de efeito de memória, podem ser  experimentadas diferentes arquiteturas de redes neuronais, comparando o uso de redes MLP's (Multilayers Perceptron) com o uso de LSTM (Long Short-Term Memory) e com o uso de buffers de memória de estados anteriores de diferentes tamanhos. 
+  
+ # [Documentação](Tutoriais/documentation_tutorial.md)
+Descreve a arquitetura e um conjunto de links das bibliotecas e frameworks utilizados.
 
 # [Rápida instruções de instalações](Tutoriais/quick_setup.md)
 Passos de instalações de pacotes Python. 
@@ -19,7 +22,6 @@ Tutorial completo de como treinar e utilizar a garra de latas no processo de emp
 # [Tutorial da esteira da caixa de latas](Tutoriais/boxconveyor_tutorial.md)
 Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.
 
-# [Documentação](Tutoriais/documentation_tutorial.md)
-Descreve a arquitetura e um conjunto de links das bibliotecas e frameworks utilizados.
+
 
 
