@@ -6,7 +6,7 @@
 
 pip --version
 
-Se o pip estiver instalado, você verá a versão do pip instalada. Se não estiver instalado, você pode instalar seguindo as instruções em https://pip.pypa.io/en/stable/installing/.
+Se o pip estiver instalado, você verá a versão do pip instalada. Se não estiver instalado, você pode instalar seguindo as instruções em https://pip.pypa.io/en/stable/installation/
 
 ### 3- Agora, use o seguinte comando para instalar as bibliotecas necessárias:
 
@@ -57,6 +57,13 @@ Observe que, ao instalar o PyTorch via Anaconda, você precisará escolher a ver
 
 # Para instalar o CUDA e os pacotes NVIDIA:
 
-Siga as instruções disponíveis no site da NVIDIA (https://www.nvidia.com/). Verifique as especificações do seu sistema e escolha a versão correta do CUDA e dos pacotes NVIDIA.
+### 1- Siga as instruções disponíveis no site da NVIDIA (https://www.nvidia.com/). 
 
-Depois de instalar o CUDA e os pacotes NVIDIA, você pode instalar o PyTorch com suporte para GPU da seguinte forma:
+Verifique as especificações do seu sistema e escolha a versão correta do CUDA e dos pacotes NVIDIA.
+
+### 2- Instale o CUDA e os pacotes NVIDIA via PyTorch com suporte para GPU da seguinte forma:
+
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+Observe que, se você estiver usando uma versão diferente do CUDA, precisará substituir cu118 no comando acima pela versão correta. Recomendável olhar o site https://pytorch.org/get-started/locally/
+
