@@ -2,11 +2,11 @@
 
 | Biblioteca | Descrição | Link |
 | --- | --- | --- |
-| Gym | Biblioteca de aprendizagem por reforço | https://gym.openai.com/ |
+| Gym | Biblioteca de aprendizagem por reforço | https://www.gymlibrary.dev  |
 | Stable Baselines3 | Implementações de algoritmos de aprendizagem por reforço | https://stable-baselines3.readthedocs.io/en/master/ |
 | PyTorch | Biblioteca de aprendizagem de máquina baseada em Torch | https://pytorch.org/ |
 | TensorFlow | Biblioteca de aprendizagem de máquina desenvolvida pela Google | https://www.tensorflow.org/ |
-| SB3_contrib | Biblioteca de contribuições para o Stable Baselines3 | https://github.com/DLR-RM/stable-baselines3-contrib |
+| SB3_contrib | Biblioteca de contribuições para o Stable Baselines3 | https://stable-baselines3.readthedocs.io/en/master/guide/sb3_contrib.html |
 | Torchvision | Biblioteca de visão computacional baseada em PyTorch | https://pytorch.org/vision/stable/index.html |
 | Callbacks | Callbacks para serem usados com o Stable Baselines3 | https://stable-baselines3.readthedocs.io/en/master/guide/callbacks.html |
 | TensorBoard | Biblioteca para visualização de dados do TensorFlow | https://www.tensorflow.org/tensorboard |
