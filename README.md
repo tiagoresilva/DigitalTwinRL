@@ -23,11 +23,13 @@ Descreve a arquitetura e um conjunto de links das bibliotecas e frameworks utili
 # [Rápida instrução de instalações](Tutorials/quick_setup.md)
 Passos de instalações de pacotes Python. 
 
+# [Tutorial da esteira da caixa de latas](Tutorials/boxconveyor_tutorial.md)
+Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.
+
 # [Tutorial da garra latas](Tutorials/handling_tutorial.md)
 Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.  
 
-# [Tutorial da esteira da caixa de latas](Tutorials/boxconveyor_tutorial.md)
-Tutorial completo de como treinar e utilizar a garra de latas no processo de empacotamento.
+
 
 
 
