@@ -46,4 +46,5 @@ Tal preferência pelo pré treinamento nessas bibliotecas se deu pela superiorid
 | Random | Biblioteca para geração de números aleatórios | https://docs.python.org/3/library/random.html |
 | Time | Biblioteca para trabalhar com tempo em Python | https://docs.python.org/3/library/time.html |
 | Tqdm | Biblioteca para mostrar progresso em loops | https://tqdm.github.io/ |
+| Anaconda | Distribuição de Python e R para ciência de dados, análise de dados e aprendizado de máquina | https://www.anaconda.com/|
 | Cuda | Plataforma de computação paralela da Nvidia | https://developer.nvidia.com/cuda-zone |

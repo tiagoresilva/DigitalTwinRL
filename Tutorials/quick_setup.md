@@ -17,7 +17,7 @@ pip install gym<br>
 pip install stable-baselines3<br>
 pip install tqdm<br>
 pip install psutil<br>
-
+pip install jupyter<br>
 
 
 # Para instalar as bibliotecas necessárias via conda:
