@@ -1,6 +1,6 @@
 # Introdução 
 
-Segue a seguir o passo a passo para treinamento e testes da garra manipuladora de latas. Esse sistema consiste em coletar latas transportadas por uma esteira de alimentação e posicioná-las em uma caixa numa segunda esteira. É composta por uma garra, um motor que se movimenta no eixo x e outro motor que se movimenta no eixo y. Cabe a essa máquina preencher 3 fileiras com 3 latas na caixa, sem deixar que as latas batam umas nas outras ou batam em obstáculos, sem realizar a captura das latas quando qualquer uma das esteiras esteja em movimento. A cada fileira preenchida pela garra, esse agente deve enviar um sinal de conclusão à esteira da caixa de latas para que ela se mova para outra posição alvo. É permitido a garra realizar 11 tipos diferentes de ações discretas:
+A garra manipuladora de latas é um sistema que consiste em coletar latas transportadas por uma esteira de alimentação e posicioná-las em uma caixa numa segunda esteira. É composta por uma garra, um motor que se movimenta no eixo x e outro motor que se movimenta no eixo y. Cabe a essa máquina preencher 3 fileiras com 3 latas na caixa, sem deixar que as latas batam umas nas outras ou batam em obstáculos, sem realizar a captura das latas quando qualquer uma das esteiras esteja em movimento. A cada fileira preenchida pela garra, esse agente deve enviar um sinal de conclusão à esteira da caixa de latas para que ela se mova para outra posição alvo. É permitido a garra realizar 11 tipos diferentes de ações discretas:
 
 •	Abrir a garra;<br>
 •	Fechar a garra;<br>
