@@ -13,7 +13,7 @@
  # [Documentação](Tutoriais/documentation_tutorial.md)
 Descreve a arquitetura e um conjunto de links das bibliotecas e frameworks utilizados.
 
-# [Rápida instruções de instalações](Tutoriais/quick_setup.md)
+# [Rápida instrução de instalações](Tutoriais/quick_setup.md)
 Passos de instalações de pacotes Python. 
 
 # [Tutorial da garra latas](Tutoriais/handling_tutorial.md)
