@@ -1,11 +1,16 @@
 
-[Processo de Empacotamento de Latas ](Tutorials/Videos/Reference.gif)
+
+
+
 
 # DigitalTwinRL
  Este é um projeto desenvolvido no âmbito da tese de mestrado para comparação de métodos de aprendizagem por reforço em processos industriais discretos sequenciais.
 
  ["Comparação de Métodos de Aprendigem por Reforço em Processos Industriais Discretos Sequenciais"](Thesis/dissertation.pdf)
-  
+ <p align="left">
+  <img src="Tutorials/Videos/Reference.gif" alt="gif" width="65%" />
+ </p> 
+ 
 # Introdução
  O processo de comissionamento de equipamentos durante a implementação de um novo sistema, ou na reconfiguração de um já existente, é uma etapa em que as empresas gastam dinheiro e tempo antes da entrada em operação. 
  
