@@ -6,7 +6,7 @@ Digite "cmd" na caixa de pesquisa. O Windows exibirá o aplicativo "Prompt de Co
 Clique no aplicativo "Prompt de Comando" nos resultados da pesquisa. Isso abrirá uma janela do Prompt de Comando.
 
 ### 2- Certifique-se de ter python instalado: 
-Você pode verificar se o python já está instalado digitando o seguinte comando no terminal:<\br>
+Você pode verificar se o python já está instalado digitando o seguinte comando no terminal:<br>
 python
 
 ### 3- Caso não possua o python instalado:
