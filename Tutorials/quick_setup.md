@@ -7,6 +7,7 @@ Clique no aplicativo "Prompt de Comando" nos resultados da pesquisa. Isso abrir�
 
 ### 2- Certifique-se de ter python instalado: 
 Você pode verificar se o python já está instalado digitando o seguinte comando no terminal:<br>
+
 python
 
 ### 3- Caso não possua o python instalado:
