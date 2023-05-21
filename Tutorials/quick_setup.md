@@ -1,3 +1,26 @@
+# Certifique-se de possuir a instalação de Python:
+
+### 1- Abra o prompt de comando do sistema operacional windows:
+Pressione a tecla Win (ou a tecla do logotipo do Windows) no teclado.
+Digite "cmd" na caixa de pesquisa. O Windows exibirá o aplicativo "Prompt de Comando" nos resultados da pesquisa.
+Clique no aplicativo "Prompt de Comando" nos resultados da pesquisa. Isso abrirá uma janela do Prompt de Comando.
+
+### 2- Certifique-se de ter python instalado: 
+Você pode verificar se o python já está instalado digitando o seguinte comando no terminal:<br>
+
+python
+
+### 3- Caso não possua o python instalado:
+Aceda ao link https://www.python.org/downloads/ e efetue a instalação.
+
+### 4- Caso possua o python instalado, mas o terminal não o reconheça ou não o encontre:
+
+Abra o Painel de Controle e acesse as Configurações do Sistema.
+Clique em "Configurações avançadas do sistema" e, em seguida, em "Variáveis de Ambiente".
+Na seção "Variáveis do Sistema", localize a variável "Path" e clique em "Editar".
+Na janela "Editar Variável de Ambiente", clique em "Novo" e insira o caminho de instalação do Python. Por exemplo, se o Python estiver instalado em "C:\Python\Python39", você deve adicionar "C:\Python\Python39" à lista de caminhos.
+Clique em "OK" para salvar as alterações.
+
 # Para instalar as bibliotecas necessárias via pip:
 
 ### 1- Abra o terminal ou prompt de comando do seu sistema operacional.
