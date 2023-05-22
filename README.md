@@ -30,7 +30,7 @@ Tutorial completo de como treinar e utilizar a esteira da caixa de latas no proc
 Tutorial completo de como treinar e utilizar a garra manipuladora de latas no processo de empacotamento.  
 
 # [Vídeos](Tutorials/videos.md)
-Vídeos mostrando a performance de algoritmos aplicados a esteira da caixa de latas e garra manipuladora de latas.
+Vídeos mostrando a performance de algoritmos aplicados à esteira da caixa de latas e à garra manipuladora de latas.
 
 
 
