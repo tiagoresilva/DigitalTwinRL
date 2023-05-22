@@ -1,6 +1,6 @@
 # Vídeos de treinamentos realizados: 
 
-Durante o desenvolvimento da dissertação, foram desenvolvidos 6 vídeos que mostram o desempenho dos algoritmos de aprendizagem por reforço aplicados a esteira de caixa de latas e garra manipuladora de latas. Um deles realiza uma apresentação de todos de forma resumida, enquanto outro serve como referência de movimentos e trajectos para os algoritmos treinados.  
+Durante a realização da dissertação, foram desenvolvidos 6 vídeos que mostram o desempenho dos algoritmos de aprendizagem por reforço aplicados à esteira de caixa de latas e à garra manipuladora de latas. Um deles apresenta todos os vídeos de forma resumida, enquanto o outro serve como referência de movimentos e trajectos para os algoritmos treinados.  
 
 ## Apresentação resumida:
 
