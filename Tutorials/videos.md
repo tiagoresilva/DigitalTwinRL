@@ -6,7 +6,7 @@ Durante o desenvolvimento da dissertação, foram desenvolvidos 6 vídeos que mo
 
 O link abaixo contém uma apresentação resumida dos 5 vídeos, mostrandos os detalhes mais importantes em cada algoritmo:
 
-
+https://youtu.be/HyzALO2uYUs
 
 ## Vídeo referência para o processo de empacotamento de latas:
 
