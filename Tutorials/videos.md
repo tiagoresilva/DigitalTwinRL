@@ -6,7 +6,7 @@ Durante a realização da dissertação, foram desenvolvidos 6 vídeos que mostr
 
 O link abaixo contém uma apresentação resumida dos 5 vídeos, mostrandos os detalhes mais importantes em cada algoritmo:
 
-https://youtu.be/HyzALO2uYUs
+https://youtu.be/ceOemi-gbTk
 
 ## Vídeo referência para o processo de empacotamento de latas:
 
@@ -18,23 +18,23 @@ https://www.youtube.com/watch?v=WGoRfu1J5lg
 
 O link abaixo contém o algoritmo treinado em A2C, com buffer de 25 passos anteriores, aplicado à esteira de caixa de latas:
 
-https://youtu.be/9IDawUl91WQ
+https://youtu.be/gr46pkVDPmM
 
 ## Algoritmo TRPO aplicado a esteira de caixa de latas:
 
 O link abaixo contém o algoritmo treinado em TRPO, sem buffer de passos anteriores, aplicado à esteira de caixa de latas:
 
-https://youtu.be/rCE-eoFeKXI
+https://youtu.be/5xZyirMDn8c
 
 ## Algoritmo TRPO aplicado a garra manipuladora de latas:
 
 O link abaixo contém o algoritmo treinado em TRPO, com buffer de 10 passos anteriores, aplicado à garra manipuladora de latas:
 
-https://youtu.be/tk2X7MeYdZA
+https://youtu.be/MLNWXWZtfsY
 
 ## Algoritmo TRPO aplicado a garra manipuladora de latas:
 
 O link abaixo contém o algoritmo treinado em TRPO, sem buffer de passos anteriores, aplicado à garra manipuladora de latas:
 
-https://youtu.be/l-ciDT6-jDQ
+https://youtu.be/QkUaFFSP2To
 
