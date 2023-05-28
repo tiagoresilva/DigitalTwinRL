@@ -12,7 +12,7 @@ https://youtu.be/ceOemi-gbTk
 
 O vídeo no link seguinte mostra os movimentos e trajectos desenvolvidos pela realidade virtual desenvolvida pela Real Virtual e que serve de referêcnia para o treinamento dos algoritmos aplicados à esteira de caixa de latas e à garra manipuladora de latas:
 
-https://www.youtube.com/watch?v=WGoRfu1J5lg
+https://youtu.be/wEQDJJbOY7A
 
 ## Algoritmo A2C aplicado a esteira de caixa de latas:
 
