@@ -30,7 +30,7 @@ No Linux ou macOS, abra o terminal e digite o comando "python -m notebook".<br>
 
 Independentemente do método escolhido, após o Jupyter Notebook ser iniciado, ele abrirá uma página da web no seu navegador padrão com o endereço "http://localhost:8888/tree". A partir daí, você pode criar um novo notebook ou abrir um já existente.
 
-## Ative o servidor websocket:
+## Ative o servidor websocket via notebook (opção 1):
 
 Todos os processos de treino e teste requerem ativação do servidor websocket para gestão de comunicação entre agente (cliente) e ambiente (servidor). Para isto siga os passos seguintes:
 
@@ -41,6 +41,10 @@ Executar o ficheiro no diretório DigitalTwinRL/Socket/Socket Communication.ipyn
 ### 2- Execute o servidor websocket:
 
 Basta correr a primeira célula do notebook e o ficheiro python irá ativar conexão TCP/IP local, porta 12000. Caso já esteja ativo e a célula for executada novamente, a conexão será desativada. Em todo treinamento ou teste, deve-se certificar que a conexão esteja ativa.
+
+## Ative o servidor websocket por arquivo executável (opção 2):
+
+O diretório DigitalTwinRL\Socket\dist\socket_communication contém o ficheiro executável socket_communication.exe que também pode ser utilizado para iniciar a comunicação socket. Basta abri-lo.
 
 ## Gerar o ambiente de treinamento da garra manipualdora de latas:
 

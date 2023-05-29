@@ -38,6 +38,7 @@ pip install torch<br>
 pip install websockets<br>
 pip install gym<br>
 pip install stable-baselines3<br>
+pip install sb3-contrib<br>
 pip install tqdm<br>
 pip install psutil<br>
 pip install jupyter<br>
@@ -73,6 +74,7 @@ conda install pytorch<br>
 conda install -c conda-forge websockets<br>
 conda install gym<br>
 conda install -c conda-forge stable-baselines3<br>
+conda install -c conda-forge sb3-contrib<br>
 conda install tqdm<br>
 conda install psutil<br>
 
