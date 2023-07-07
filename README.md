@@ -1,11 +1,8 @@
 
 
-
-
 # DigitalTwinRL
- Este é um projeto desenvolvido no âmbito da tese de mestrado para comparação de métodos de aprendizagem por reforço em processos industriais discretos sequenciais.
-<!--
- ["Comparação de Métodos de Aprendigem por Reforço em Processos Industriais Discretos Sequenciais"](Thesis/dissertation.pdf)-->
+ Este é um projeto desenvolvido no âmbito da tese de mestrado ["Comparação de Métodos de Aprendigem por Reforço em Processos Industriais Discretos Sequenciais"](Thesis/dissertation.pdf), realizada sob a orientação do Doutor Luís Miguel Perdigoto e do Doutor Luís Manuel Conde Bento, na Escola Superior de Tecnologia e Gestão ESTG, no Politécnico de Leiria. 
+
  <p align="left">
   <img src="Tutorials/Videos/Reference.gif" alt="gif" width="65%" />
  </p> 
